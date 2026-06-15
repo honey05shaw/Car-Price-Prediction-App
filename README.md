@@ -81,5 +81,5 @@ Users can enter car details through the Streamlit interface and receive an estim
 
 ## Author
 
-Seemran Shaw
-MSc in Statistics
+Honey Shaw
+b.tech in Data Science
